@@ -1,0 +1,36 @@
+.c {
+    background-color:chocolate;
+}
+.i{
+    background-color:gold;
+
+}
+.g{
+    background-color: burlywood;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: "courier new",'Courier New', Courier, monospace;
+}
+img {
+    height: 200px;
+    width: auto;
+    
+}
+ul {
+    font-size: 30px;
+}
+ol {
+    font-size: 30px;
+}
+h2 {
+    font-size: 40px;
+    background-color: darksalmon;
+    color:dimgrey;
+}
+h3{
+    font-size: 40px;
+    background-color: darksalmon;
+    color: dimgray;
+}
